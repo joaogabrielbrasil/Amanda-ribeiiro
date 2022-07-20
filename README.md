@@ -2,7 +2,6 @@
 
 -  📓 Estou atualmente fazendo o Bootcamp Fullstack Developer da Dio pelo Santander
 -  🎓 Iniciando a graduação na universidade Univesp 
--  
 
 <div align="center">
   <a href="https://github.com/Amanda-ribeiiro">
@@ -11,7 +10,7 @@
 </div>
 
 <div>
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=67 6">
 </div>
 
 
@@ -23,7 +22,7 @@
   <a href="https://wa.me/<+5511988737090"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/amandarcerqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/.github/workflows-amanda-ribeiiro.yml)
+ 
  
 </div>
 
