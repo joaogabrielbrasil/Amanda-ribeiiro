@@ -1,6 +1,6 @@
-### Ola eu sou Amanda Ribeiro! Bem vindo ao meu perfil. 
+### Olá eu sou Amanda Ribeiro! Bem vindo ao meu perfil! 🚀🚀
 
--  📓 Estou atualmente fazendo o Bootcamp Fullstack Developer da Dio pelo Santander
+-  📓 Estou atualmente fazendo o Santander Bootcamp Fullstack Developer da [Digital Innovation One](https://digitalinnovation.one/).
 -  🎓 Iniciando a graduação na universidade Univesp 
 <div align="center">
   <a href="https://github.com/Amanda-ribeiiro">
