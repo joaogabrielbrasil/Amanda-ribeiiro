@@ -1,7 +1,7 @@
 ### Olá eu sou Amanda Ribeiro! Bem vindo ao meu perfil! 🚀🚀
 
 -  📓 Estou atualmente fazendo o Santander Bootcamp Fullstack Developer da [Digital Innovation One](https://digitalinnovation.one/).
--  🎓 Iniciando a graduação na universidade Univesp 
+-  🎓 Iniciando a graduação na universidade [Univesp](https://ava.univesp.br/ultra/institution-page/).
 <div align="center">
   <a href="https://github.com/Amanda-ribeiiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
